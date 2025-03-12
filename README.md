@@ -6,22 +6,22 @@ El monitoreo ambiental es fundamental en diversas áreas como la agricultura, la
 
 Componentes utilizados
 
-ESP32
+-ESP32
 
-Sensor de temperatura y humedad DHT22
+-Sensor de temperatura y humedad DHT22
 
-Sensor de presión BMP280
+-Sensor de presión BMP280
 
-Pantalla OLED
+-Pantalla OLED
 
-Plataforma ThingSpeak
+-Plataforma ThingSpeak
 
-Placa de circuito impreso
+-Placa de circuito impreso
 
-Fuente de alimentación
+-Fuente de alimentación
 
-Switch
+-Switch
 
-Carcasa impresa en 3D
+-Carcasa impresa en 3D
 
-MP1584
+-MP1584
